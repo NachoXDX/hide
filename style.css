@@ -1,0 +1,17 @@
+#main{
+    display: flex;
+    flex-direction: row;
+    width: 400px;
+
+}
+#settings{
+    display: none;
+}
+img{
+    width: 60px;
+}
+#nav{
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+}
